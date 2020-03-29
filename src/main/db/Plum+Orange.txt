@@ -1,0 +1,1 @@
+[{"cost":60,"initialDate":"2020-02-20","shelfLife":120,"type":"Plum"},{"cost":44,"initialDate":"2020-02-20","shelfLife":60,"type":"Orange"}]

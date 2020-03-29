@@ -1,0 +1,1 @@
+[{"cost":71,"initialDate":"2020-03-10","shelfLife":45,"type":"Mango"},{"cost":67,"initialDate":"2020-03-10","shelfLife":55,"type":"Papaya"}]

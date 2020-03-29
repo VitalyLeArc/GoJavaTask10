@@ -1,0 +1,1 @@
+[{"cost":50,"initialDate":"2020-06-20","shelfLife":30,"type":"Cherry"},{"cost":26,"initialDate":"2020-06-20","shelfLife":50,"type":"Coconut"}]

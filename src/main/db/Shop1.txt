@@ -1,0 +1,1 @@
+{"dataBasePath":"src/main/db/","shopIndex":1,"shopMoney":1000}

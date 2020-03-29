@@ -1,0 +1,1 @@
+[{"cost":15,"initialDate":"2019-11-12","shelfLife":50,"type":"Apple"},{"cost":28,"initialDate":"2019-11-12","shelfLife":10,"type":"Banana"}]
